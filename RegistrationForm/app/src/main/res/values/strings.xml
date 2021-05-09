@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RegistrationForm</string>
+    <string name="click_here">Click Here</string>
+    <string name="registration_form">Registration Form</string>
+    <string name="kotlin_tutorial">Kotlin Tutorial</string>
+    <string name="name">Name</string>
+</resources>
